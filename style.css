@@ -1,24 +1,24 @@
 body {
-    background:#A9A9A9;
+    background: #A9A9A9;
     font-size: 30px;
     color: #191970;
-    
-    
+
+
 }
 
 h2 {
     font-size: 60px;
     background: #928bcb;
     color: rgb(10, 9, 9);
-    border:15px groove cadetblue;
-        margin-top: 0px;
-        font-family: 'Roboto', sans-serif;
+    border: 15px groove cadetblue;
+    margin-top: 0px;
+    font-family: 'Roboto', sans-serif;
 
-    }
+}
 
 p {
     text-align: justify;
-    
+
 }
 
 b {
@@ -36,8 +36,8 @@ b {
 #imagem-secundaria {
     width: 100%;
     height: 320px;
-    
-} 
+
+}
 
 i {
     font-size: 30px;
@@ -45,35 +45,34 @@ i {
 }
 
 #formacao {
-   border: 3px dotted black ;
-   padding: 10px;
-      
+    border: 3px dotted black;
+    padding: 10px;
+
 }
 
 h3 {
     text-align: center;
     color: white
-    
 }
 
 .lista {
     color: white;
     background-color: #060606;
-           
+
 }
 
 li::marker {
     content: "\1F4D5";
 }
 
-ul{
+ul {
     display: inline-block;
     vertical-align: top;
     width: 28%;
     margin-right: 0%;
 
 
-    }
+}
 
 .teste {
     font-size: 30px;
@@ -86,59 +85,63 @@ ul{
 #escola {
     color: #191970;
 }
+
 .imagem3 {
     width: 18%;
     border: solid yellow 20px;
 }
+
 .titulo-principal {
-    
-        font-size: 40px;
-        text-align: center;
-        padding: 0px;
-        margin: 0%;
-        color: white;
-        background-color: rgba(93, 2, 2, 0.734);
+
+    font-size: 40px;
+    text-align: center;
+    padding: 0px;
+    margin: 0%;
+    color: white;
+    background-color: rgba(93, 2, 2, 0.734);
 }
 
 
 .logo {
     width: 20%;
-  }
-  h1,p {
+}
+
+h1,
+p {
     padding: 10px;
     margin: 5px;
-  }
-  .logo {
+}
+
+.logo {
     width: 20%;
-    }
-  
-  Header {
+}
+
+Header {
     background: #aeacac;
-  }
-  
-  nav li {
+}
+
+nav li {
     display: inline;
     margin: 0 0 0 15px;
-  }
-  
-  nav a {
+}
+
+nav a {
     text-transform: uppercase;
-    color:  #000000;
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
-  }
-  
-  nav {
+}
+
+nav {
     position: absolute;
     top: 110px;
     right: 0;
-  }
-  
-  .caixa {
+}
+
+.caixa {
     position: relative;
     width: 940px;
     right: 0 auto;
     left: 90px;
-  }
-  
+}
